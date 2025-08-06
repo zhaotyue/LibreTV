@@ -164,7 +164,7 @@ const API_SITES = {
         detail: 'https://hsckzy.vip/xxx/provide/vod/'
     },
     yutu: {
-        api: 'https://yutuzy10.com/xxx/provide/vod/',
+        api: 'https://apiyutu.com/api.php/provide/vod/',
         name: '玉兔资源',
         adult: true
     },
